@@ -1,0 +1,1 @@
+Fitness Planner: With a click of a button, you can generate random workouts for a given week. This is a locally run project that requires you to host a server, and is developed through Java, HTML, and CSS. 
